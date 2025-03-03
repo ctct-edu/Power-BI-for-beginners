@@ -1,9 +1,6 @@
----
-lab:
-  title: Power BI Desktopの基本操作
----
-
 # Power BI Desktopの基本操作
+
+[TOC]
 
 ## **ラボ概要**
 
