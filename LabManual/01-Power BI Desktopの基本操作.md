@@ -191,4 +191,4 @@
     > 注：ここで保存したpbixファイルはPower BI で使用する最も一般的な拡張子です。この後作成するデータセットやレポートなど、Power BIに関する様々なデータを含むものです。
 
 ※演習が最後まで完了しなかった場合は、以下のファイルを開くことで手順を最後まで実施した状態になります。
-C:\Users\ctct\Documents\LabSampless\Lab01.pbix
+C:\Users\ctct\Documents\LabSamples\Lab01.pbix

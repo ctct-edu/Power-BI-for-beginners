@@ -208,7 +208,7 @@
 保留中の変更の適用を求めるダイアログが表示されたら、 **[後で適用]** を選択します。
 
 ※演習が最後まで完了しなかった場合は、以下のファイルを開くことで手順を最後まで実施した状態になります。
-C:\Users\ctct\Documents\LabSampless\Lab03.pbix
+C:\Users\ctct\Documents\LabSamples\Lab03.pbix
 
 
 
