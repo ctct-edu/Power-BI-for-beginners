@@ -65,10 +65,10 @@
 
    - CategoryID
    - ProductID
-   - RegionID ※Regionテーブル、Stateテーブル両方
+   - RegionID ※Regionテーブル
    - CustomerStateID
    - ProductID
-   - RegionID
+   - RegionID ※Stateテーブル
    - StateID
 
 11. 複数選択された状態で、 **プロパティペイン** の非表示ボタンを **オン** （はい）に変更します。
