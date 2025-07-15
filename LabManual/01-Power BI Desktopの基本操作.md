@@ -25,7 +25,7 @@
    | ---------- | ---------------- |
    | ユーザー名 | **ctct**         |
    | パスワード | **Pa55w.rd1234** |
-
+   | keyboard language | **Japanese** |
    
 
 2. 仮想マシンに接続したら、デスクトップ上のPower BI DesktopのショートカットをダブルクリックしてPower BI Desktopを起動します。
